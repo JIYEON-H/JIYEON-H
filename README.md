@@ -4,16 +4,6 @@
 
 I work at the intersection of software development and system analysis — designing structured workflows, building RESTful services, and supporting enterprise-style systems where data integrity and long-term maintainability matter.
 
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIYEON-H&show_icons=true&hide_border=true&title_color=333333&icon_color=555555&text_color=444444" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIYEON-H&layout=compact&hide_border=true&title_color=333333&text_color=444444" height="150"/>
-</p>
-
----
 
 ## 🧩 What I Do
 
