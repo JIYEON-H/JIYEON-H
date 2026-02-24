@@ -1,22 +1,22 @@
 # Hi, I’m Jiyeon 👋
 
-**Developer & Systems Analyst** focused on building reliable, data-driven operational platforms.
+**Full Stack Developer** focused on building reliable, data-driven operational and industrial platforms.
 
-I work at the intersection of software development and system analysis — designing structured workflows, building RESTful services, and supporting enterprise-style systems where data integrity and long-term maintainability matter.
+I work across frontend, backend, and relational data systems — designing structured workflows, building RESTful services using C#/.NET and Node.js, and supporting enterprise-style platforms where data integrity and long-term maintainability matter.
 
 
 ## 🧩 What I Do
 
 ### 💻 Development
-- Build internal platforms using **React + TypeScript**
-- Design and integrate **RESTful APIs**
-- Work with **Firebase (Firestore)** and **PostgreSQL** data systems
-- Develop modular and maintainable front-end architectures
+- Build operational platforms using **React + TypeScript** and **C#/.NET**
+- Design and integrate **RESTful APIs** and relational data models
+- Work with **SQL Server, PostgreSQL, and Firestore**
+- Develop mobile-first and workflow-driven interfaces
 
 ### 📊 Analysis & Systems
 - ERP-style workflow analysis and data modeling
 - Root cause investigation and production issue troubleshooting
-- QA coordination, testing, and documentation
+- Designing reliable backend logic supporting real-world business processes
 - Supporting structured business processes through technology
 
 ---
@@ -24,29 +24,38 @@ I work at the intersection of software development and system analysis — desig
 ## 🏗 Experience Highlights
 
 ### Operational / ERP Systems
-- Contributed to multi-tenant business platforms supporting inventory and operational workflows
+- Contributed to multi-tenant operational platforms supporting inventory and business workflows
 - Implemented role-based access control and data integrity patterns
-- Designed UI workflows connected to real-time Firestore data
+- Built event-driven backend logic connected to real-time data systems
+- Developed mobile-first inventory audit workflows for operational environments
 
+### GeoAsset Connect (Industrial / Geospatial)
+- Building a **.NET-based asset management system** exploring industrial asset lifecycle workflows
+- Using EF Core, SQL Server, and Docker to model scalable backend architecture
+- Applying geospatial data concepts aligned with field operations and structured asset tracking
+  
 ### Artistry Project
-- Designed RESTful APIs using Node.js / NestJS
-- Worked with PostgreSQL schema design and relational data modeling
-- Supported production web applications with structured backend services
+- Implemented RESTful APIs using C#/.NET
+- Designed relational schemas using PostgreSQL
+- Delivered full-stack features integrating structured backend services with modern UI workflows
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Frontend**
-- React (Vite), Next.js, TypeScript, MUI
+- React (Vite), Next.js, TypeScript
 
 **Backend & APIs**
+- C#, .NET, EF Core
 - Node.js, NestJS, Spring Boot
 - RESTful API design
 
 **Data & Cloud**
-- Firebase (Firestore, Auth, Storage)
+- SQL Server
 - PostgreSQL
+- Firebase (Firestore, Auth, Storage)
+- Relational modeling & structured workflows
 
 **Workflow & DevOps**
 - GitHub Actions
@@ -57,12 +66,13 @@ I work at the intersection of software development and system analysis — desig
 
 ## 🚧 Currently Building
 
+- **GeoAsset Connect** — Industrial geospatial asset platform exploring operational workflows
+- **ab-business-portal** — Operational business platform exploring structured workflows, data modeling, and scalable full-stack architecture
 - **OpsFlow** — workflow and operations platform (early-stage)
-- Exploring entity-driven architecture and scalable data workflows
 
 ---
 
 ## 🤝 Approach
 
-I enjoy building systems that are not only functional but also **understandable, traceable, and reliable**.
-My goal is to bridge development and analysis — helping teams maintain systems that support real operational needs.
+I enjoy building systems that are not only functional but also **understandable, traceable, and reliable.**
+My goal is to create software that supports real operational needs — bridging development, system thinking, and long-term maintainability.
