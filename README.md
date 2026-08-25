@@ -1,78 +1,87 @@
 # Hi, I’m Jiyeon 👋
 
-**Full Stack Developer** focused on building reliable, data-driven operational and industrial platforms.
+**Software Engineer** with 3 years of experience building and supporting production applications and business systems.
 
-I work across frontend, backend, and relational data systems — designing structured workflows, building RESTful services using C#/.NET and Node.js, and supporting enterprise-style platforms where data integrity and long-term maintainability matter.
+I work across frontend, backend, APIs, and data layers, with experience in full-stack development, system integration, real-time and event-driven workflows, production support, and AI-powered solutions.
 
 
 ## 🧩 What I Do
 
-### 💻 Development
-- Build operational platforms using **React + TypeScript** and **C#/.NET**
-- Design and integrate **RESTful APIs** and relational data models
-- Work with **SQL Server, PostgreSQL, and Firestore**
-- Develop mobile-first and workflow-driven interfaces
+### 💻 Software Development
+- Build full-stack applications using **React, TypeScript, Node.js, and C#/.NET**
+- Design and integrate **REST APIs** and backend services
+- Work with **PostgreSQL, SQL Server, Firestore, and Supabase**
+- Build real-time, event-driven, and data-driven application workflows
 
-### 📊 Analysis & Systems
-- ERP-style workflow analysis and data modeling
-- Root cause investigation and production issue troubleshooting
-- Designing reliable backend logic supporting real-world business processes
-- Supporting structured business processes through technology
+### 📊 Systems & Business Applications
+- Analyze business requirements and operational workflows
+- Design data models and reliable application workflows
+- Investigate production issues across application and data layers
+- Translate business needs into practical software solutions
+- 
+### 🤖 AI & Automation
+- Build applications using **OpenAI APIs, RAG, and embeddings**
+- Integrate AI-assisted document processing into business workflows
+- Use **Codex, Claude Code, and Cursor** as part of my development workflow
+- Apply AI-assisted development while maintaining ownership of architecture, testing, and code quality
 
 ---
 
 ## 🏗 Experience Highlights
 
-### Operational / ERP Systems
-- Contributed to multi-tenant operational platforms supporting inventory and business workflows
-- Implemented role-based access control and data integrity patterns
-- Built event-driven backend logic connected to real-time data systems
-- Developed mobile-first inventory audit workflows for operational environments
+### POSY Inc. — Software Engineer
+- Built and supported production ERP applications across inventory, purchasing, warehouse, sales, and B2B operations
+- Developed data workflows supporting **6,000+ products and tens of thousands of operational records**
+- Built event-driven workflows across purchasing, sales, manufacturing, and inventory auditing
+- Implemented real-time operational data updates and dashboards
+- Developed an AI-assisted invoice processing workflow integrating document extraction, validation, and human review
 
-### GeoAsset Connect (Industrial / Geospatial)
-- Building a **.NET-based asset management system** exploring industrial asset lifecycle workflows
-- Using EF Core, SQL Server, and Docker to model scalable backend architecture
-- Applying geospatial data concepts aligned with field operations and structured asset tracking
-  
-### Artistry Project
-- Implemented RESTful APIs using C#/.NET
-- Designed relational schemas using PostgreSQL
-- Delivered full-stack features integrating structured backend services with modern UI workflows
+### Artistry — Full Stack Developer
+- Develop and ship full-stack production features across public-facing and administrative applications
+- Work with **React, Next.js, TypeScript, and backend services**
+- Build authentication, role-based access control, and structured content management workflows
+- Maintain CI/CD workflows and staging/production deployments
+- Contributed to the platform's **AWS-to-GCP cloud migration**
+
+---
+
+## 🚀 Featured Projects
+
+### ESG Report Chat (RAG)
+Full-stack document Q&A application using **Next.js, TypeScript, OpenAI embeddings, vector similarity search, and GPT-4o**.
+
+[GitHub](https://github.com/JIYEON-H/esg-rag-chat)
+
+### Relay Integration Platform
+Backend integration platform exploring **OAuth 2.0, third-party APIs, NestJS, PostgreSQL, Prisma, and Docker**.
+
+### GeoAsset Connect
+Asset management application built with **C#/.NET, EF Core, SQL Server, React, and Docker**, exploring relational data and operational workflows.
+
+### Proxy Voting Dashboard
+Interactive analytics dashboard built with **React and TypeScript** for exploring institutional proxy voting data.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend**
-- React (Vite), Next.js, TypeScript
+**Frontend**  
+React · Next.js · TypeScript · JavaScript
 
-**Backend & APIs**
-- C#, .NET, EF Core
-- Node.js, NestJS, Spring Boot
-- RESTful API design
+**Backend & APIs**  
+Node.js · NestJS · C# · .NET / ASP.NET Core · REST APIs · OAuth 2.0
 
-**Data & Cloud**
-- SQL Server
-- PostgreSQL
-- Firebase (Firestore, Auth, Storage)
-- Relational modeling & structured workflows
+**Data**  
+PostgreSQL · SQL Server · Firestore · Supabase · Data Modeling
 
-**Workflow & DevOps**
-- GitHub Actions
-- Docker (working knowledge)
-- Data modeling & system workflows
+**Cloud & DevOps**  
+Firebase · GCP · AWS · Docker · GitHub Actions · CI/CD
+
+**AI**  
+OpenAI API · RAG · Embeddings · Google Document AI · Codex · Claude Code
 
 ---
 
-## 🚧 Currently Building
+## 🤝 How I Work
 
-- **GeoAsset Connect** — Industrial geospatial asset platform exploring operational workflows
-- **ab-business-portal** — Operational business platform exploring structured workflows, data modeling, and scalable full-stack architecture
-- **OpsFlow** — workflow and operations platform (early-stage)
-
----
-
-## 🤝 Approach
-
-I enjoy building systems that are not only functional but also **understandable, traceable, and reliable.**
-My goal is to create software that supports real operational needs — bridging development, system thinking, and long-term maintainability.
+I enjoy understanding how a system is actually used, not just implementing individual features. I like working across technical and business contexts, solving production problems, and building software that is reliable, maintainable, and useful to the people who depend on it.
